@@ -1,0 +1,29 @@
+.cubo {
+    border: 1px solid black;
+    height: 25px;
+    width: 25px;
+    border-top: 1px;
+    border-left: 1px;
+   justify-content: right;
+   float: right;
+   
+    
+}
+
+.quadrado {
+    height: 492px;
+    width: 598px;
+    border: 2px solid black;
+    float: right;
+   
+}
+
+.cubo2 {
+    border: 1px solid red;
+    height: 25px;
+    width: 25px;
+    border-top: 1px;
+    border-left: 1px;
+    float: right;
+        
+}
