@@ -21,7 +21,13 @@ div.addEventListener('mousedown', function(e) {
 reiniciar.addEventListener('click', function(e){
     div.style.background = ('white');
 })
+
+div.addEventListener('dblclick', function(e){
+    div.style.background = ('white')
+})
   })
+
+
 }}
 
 
